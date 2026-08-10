@@ -12,6 +12,8 @@ Frontend developer focused on polished, high-performance web experiences. I buil
 | [1967 Ford Mustang](https://github.com/ehala69/mustangpremium) | Cinematic automotive product landing page | Next.js · GSAP · TypeScript |
 | [Hotel Obersteinberg](https://github.com/ehala69/swisshotel) | Multilingual cinematic hotel experience | Next.js · next-intl · GSAP |
 | [CallAI](https://github.com/ehala69/callai-public) | Call-centre audio intelligence MVP | FastAPI · Next.js · AI |
+| [AI Manager](https://github.com/ehala69/ai-manager) | AI-assisted wholesale sales manager with Telegram and CRM workflows | FastAPI · Next.js · OpenRouter |
+| [CheckLeads](https://github.com/ehala69/checkleads) | Lead qualification and management application | FastAPI · Next.js · Telegram |
 
 ## What I work with
 
