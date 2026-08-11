@@ -1,56 +1,302 @@
 <div align="center">
 
-# Hi, I'm Ivan 👋
+# Hey, I'm Ivan 👋
 
-### Frontend developer crafting polished web experiences and AI-powered products
+### Full-Stack & AI Developer
 
-[![GitHub](https://img.shields.io/badge/GitHub-ehala69-181717?style=flat-square&logo=github)](https://github.com/ehala69)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs)](https://nextjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev/)
+I build complete digital products — from polished interfaces and backend systems
+to AI-powered platforms, automation tools, and production-ready MVPs.
+
+<br>
+
+\
 
 </div>
 
-## About me
+---
 
-I turn ideas into fast, thoughtful digital products — from cinematic landing pages to AI-assisted tools and dashboards.
+## 👨‍💻 About me
 
-- ✦ Building with **Next.js, React, TypeScript, and Tailwind CSS**
-- ✦ Exploring **AI workflows, FastAPI, and Telegram integrations**
-- ✦ Focused on clarity, motion, performance, and strong visual detail
+I'm a developer focused on building **real products**, not just isolated interfaces.
 
-## Featured work
+I enjoy taking an idea and turning it into a complete application:
+**frontend → backend → database → AI → integrations → deployment**.
 
-| Project | What it is | Built with |
-| --- | --- | --- |
-| [AI Manager](https://github.com/ehala69/ai-manager) | AI-assisted wholesale sales manager with Telegram and CRM workflows | FastAPI · Next.js · OpenRouter |
-| [CallAI](https://github.com/ehala69/callai-public) | Call-centre audio intelligence MVP | FastAPI · Next.js · AI |
-| [CheckLeads](https://github.com/ehala69/checkleads) | Lead qualification and management platform | FastAPI · Next.js · Telegram |
-| [Atlas Construction](https://github.com/ehala69/atlascons) | Multilingual corporate website | Next.js · TypeScript · Tailwind CSS |
-| [Fleure](https://github.com/ehala69/fleure) | Luxury flowers and gifts e-commerce concept | Next.js · shadcn/ui |
-| [1967 Ford Mustang](https://github.com/ehala69/mustangpremium) | Cinematic automotive landing page | Next.js · GSAP · TypeScript |
+* 🤖 Building **AI-powered applications and automation systems**
+* ⚙️ Developing APIs and backend services with **Python, FastAPI and Go**
+* 🌐 Creating modern web applications with **Next.js, React and TypeScript**
+* 🧠 Working with **LLMs, speech processing and AI pipelines**
+* 🗄️ Designing applications around **PostgreSQL, Redis and background workers**
+* 🐳 Packaging and running applications with **Docker**
+* 🔌 Integrating **Telegram bots, external APIs and AI providers**
+* 🚀 Interested in turning prototypes into usable, production-oriented MVPs
 
-## My tech stack
+---
+
+## 🧩 What I build
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI Systems
+
+AI-powered applications, LLM workflows, speech processing, automation, structured analysis and intelligent assistants.
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Backend Systems
+
+REST APIs, authentication, PostgreSQL, Redis, background jobs, file processing, integrations and business logic.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Web Applications
+
+Modern dashboards, admin panels, SaaS interfaces, landing pages and responsive web applications.
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 Product Engineering
+
+Turning an idea into a complete MVP with frontend, backend, database, infrastructure and third-party integrations.
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🚀 Featured Projects
+
+## 🎙️ CallAI
+
+**AI-powered call-center intelligence platform**
+
+A full-stack platform that processes conversations and transforms raw call audio into structured business insights.
+
+**Pipeline:**
+
+`Audio → Speech-to-Text → Speaker Diarization → Emotion Analysis → LLM QA → Analytics`
+
+### Features
+
+* Audio upload and asynchronous processing
+* Faster-Whisper speech recognition
+* Pyannote speaker diarization
+* Operator/client role identification
+* Emotion2Vec emotion analysis
+* LLM-generated structured QA reports
+* Findings and recommendations
+* Call analytics dashboards
+* Role-based access
+* Background processing pipeline
+
+### Stack
+
+`FastAPI` · `PostgreSQL` · `Redis` · `Celery` · `MinIO` · `Next.js` · `TypeScript` · `Faster-Whisper` · `Pyannote` · `Emotion2Vec` · `OpenRouter` · `Docker`
+
+🔗 [View repository](https://github.com/ehala69/callai-public)
+
+---
+
+## 🤖 AI Manager
+
+**AI-assisted sales manager for wholesale workflows**
+
+A system combining an AI assistant, CRM workflows and Telegram automation to help process incoming leads and customer requests.
+
+### Features
+
+* AI-assisted customer communication
+* Product/catalog-grounded responses
+* Lead management
+* Follow-up reminders
+* Telegram integration
+* Operator dashboard
+* Google Sheets synchronization
+* PostgreSQL persistence
+* Redis-powered infrastructure
+
+### Stack
+
+`FastAPI` · `PostgreSQL` · `Redis` · `Next.js` · `TypeScript` · `Telegram Bot API` · `OpenRouter` · `Docker`
+
+🔗 [View repository](https://github.com/ehala69/ai-manager)
+
+---
+
+## 🎯 CheckLeads
+
+**Lead qualification and management platform**
+
+A full-stack system for collecting, processing and qualifying leads with optional AI-assisted workflows.
+
+### Features
+
+* Lead management
+* Qualification workflows
+* Telegram integration
+* AI-assisted processing
+* Operator dashboard
+* Google Sheets integration
+* Backend API
+
+### Stack
+
+`FastAPI` · `SQLAlchemy` · `Next.js` · `TypeScript` · `Telegram Bot API` · `OpenRouter`
+
+🔗 [View repository](https://github.com/ehala69/checkleads)
+
+---
+
+## 🛒 Marketplace
+
+**Reusable full-stack e-commerce platform**
+
+Modular marketplace backend and storefront designed as a reusable foundation for real business projects.
+
+### Features
+
+* Product catalog
+* Categories and product management
+* Cart and checkout
+* Order CRM
+* Delivery management
+* Secure admin authentication
+* Image management
+* Telegram order notifications
+* Store configuration
+* Dockerized deployment
+
+### Stack
+
+`Go` · `Next.js` · `TypeScript` · `PostgreSQL` · `Redis` · `Caddy` · `Docker Compose`
+
+🔗 [View repository](https://github.com/ehala69/free-marketplace-GO)
+
+---
+
+## 🎨 Frontend & Creative Work
+
+| Project                                                            | Description                               | Stack                           |
+| ------------------------------------------------------------------ | ----------------------------------------- | ------------------------------- |
+| 🏗️ [Atlas Construction](https://github.com/ehala69/atlascons)     | Multilingual corporate website            | Next.js · TypeScript · Tailwind |
+| 💐 [Fleure](https://github.com/ehala69/fleure)                     | Luxury flowers & gifts e-commerce concept | Next.js · shadcn/ui             |
+| 🏎️ [1967 Ford Mustang](https://github.com/ehala69/mustangpremium) | Cinematic automotive landing page         | Next.js · GSAP · TypeScript     |
+
+---
+
+# 🛠️ Tech Stack
+
+### Languages
 
 <p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,go,sql" />
 </p>
 
-## GitHub activity
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs" />
+</p>
+
+### Databases & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,redis,docker,linux,git,github" />
+</p>
+
+### AI / ML
+
+<p>
+
+
+
+
+\
+
+</p>
+
+### Tools & Integrations
+
+<p>
+
+
+
+
+\
+
+</p>
+
+---
+
+## 🧠 Areas I'm interested in
+
+* Applied AI
+* AI agents and automation
+* Speech and audio intelligence
+* Computer Vision
+* Backend architecture
+* High-performance backend systems
+* Developer tools
+* SaaS products
+* Product engineering
+* AI-native applications
+
+---
+
+## 🔬 Currently exploring
+
+```text
+AI systems          ███████████████████░
+Backend engineering ██████████████████░░
+Product development ███████████████████░
+Go                  ████████████░░░░░░░░
+System design       ██████████████░░░░░░
+```
+
+---
+
+# 📊 GitHub Activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ehala69&show_icons=true&hide_border=true&theme=transparent" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehala69&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ehala69&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehala69&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
+
 </div>
 
 <div align="center">
 
-**Open to collaboration on ambitious web and AI products.**
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ehala69&hide_border=true&theme=transparent" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Build. Experiment. Ship.
+
+I enjoy working on ambitious **web, backend and AI products**
+and turning ideas into working software.
+
+**Open to interesting projects and collaboration.**
+
+<br>
 
 </div>
