@@ -344,11 +344,13 @@ This project also gives me an opportunity to explore **Go backend development** 
 
 Alongside backend and AI systems, I enjoy experimenting with visual design, interaction and motion.
 
-| Project                                                                | Description                                 | Stack                               |
-| ---------------------------------------------------------------------- | ------------------------------------------- | ----------------------------------- |
-| 🏗️ [**Atlas Construction**](https://github.com/ehala69/atlascons)     | Multilingual corporate construction website | Next.js · TypeScript · Tailwind CSS |
-| 💐 [**Fleure**](https://github.com/ehala69/fleure)                     | Luxury flowers & gifts e-commerce concept   | Next.js · React · shadcn/ui         |
-| 🏎️ [**1967 Ford Mustang**](https://github.com/ehala69/mustangpremium) | Cinematic automotive landing experience     | Next.js · GSAP · TypeScript         |
+| Project                                                                | Description                                     | Stack                                               |
+| ---------------------------------------------------------------------- | ----------------------------------------------- | --------------------------------------------------- |
+| 🏗️ [**Atlas Construction**](https://github.com/ehala69/atlascons)     | Multilingual corporate construction website     | Next.js · TypeScript · Tailwind CSS                 |
+| 💐 [**Fleure**](https://github.com/ehala69/fleure)                     | Luxury flowers & gifts e-commerce concept       | Next.js · React · shadcn/ui                         |
+| 🏎️ [**1967 Ford Mustang**](https://github.com/ehala69/mustangpremium) | Cinematic automotive landing experience         | Next.js · GSAP · TypeScript                         |
+| 🏨 [**Hotel Obersteinberg**](https://github.com/ehala69/swisshotel)    | Cinematic multilingual premium hospitality site | Next.js · TypeScript · GSAP · Framer Motion         |
+| 🏋️ [**Super Fitness**](https://github.com/ehala69/fitness)            | Modern responsive fitness club website          | Next.js · TypeScript · Tailwind CSS · Framer Motion |
 
 ---
 
